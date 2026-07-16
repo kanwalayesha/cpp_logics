@@ -5,7 +5,7 @@ int main()
 {
 int number;
 int reverse=0;
-cout<<"Enter number you want reverse : ";
+cout<<"Enter number you want reverse 1-9 :";
 cin>>number;
 while(number>0)
 {int digit =number%10;//used to get last number
