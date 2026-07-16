@@ -12,7 +12,7 @@ int fact(int n)
 int main()
 {
 int number;
-cout<<"Enter number";
+cout<<"Enter number : ";
 cin>>number;
 cout<<fact(number);
 
